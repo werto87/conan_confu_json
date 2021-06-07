@@ -4,5 +4,5 @@ sources:
     sha256: 29303f9c1bd69dea5f9e1451ee20f56b0cb882597146a00cb2e0e92fb81f9d11
   "0.0.2":
     url: https://github.com/werto87/confu_json/archive/refs/tags/v0.0.2.tar.gz
-    sha256: 29303f9c1bd69dea5f9e1451ee20f56b0cb882597146a00cb2e0e92fb81f9d11
+    sha256: 5f53012502d957e813b6b1c0d8ea8d3270add24416c971710d622aa8f8a4e7b5
 
