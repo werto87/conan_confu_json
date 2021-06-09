@@ -24,6 +24,7 @@ class ConfuJson(ConanFile):
 
     def requirements(self):
         self.requires("boost/1.76.0")
+        self.requires("magic_enum/0.7.2")
 
     def source(self):
         tools.get(**self.conan_data["sources"][self.version])
