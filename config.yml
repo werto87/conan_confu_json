@@ -1,4 +1,5 @@
-  0.0.5:
-    folder: all   
-  0.0.6:
-    folder: all   
+  versions:
+    0.0.5:
+      folder: all   
+    0.0.6:
+      folder: all   
