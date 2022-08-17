@@ -1,3 +1,0 @@
-/home/walde/my_conan/conan_confu_json/all/test_package/build/bc206bb1238ed8fb67e8c03af18f5c324f617950/CMakeFiles/test_package.dir
-/home/walde/my_conan/conan_confu_json/all/test_package/build/bc206bb1238ed8fb67e8c03af18f5c324f617950/CMakeFiles/edit_cache.dir
-/home/walde/my_conan/conan_confu_json/all/test_package/build/bc206bb1238ed8fb67e8c03af18f5c324f617950/CMakeFiles/rebuild_cache.dir
